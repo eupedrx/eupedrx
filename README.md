@@ -1,6 +1,7 @@
 ### Oi, me chamo Pedro! 👋
 
 - 🌱 Atualmente aprendendo Javascript
+- 📖 Universitário na UniLaSalle-RJ
 - 📫 Minhas redes:
 <div>
   <a>
