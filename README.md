@@ -1,10 +1,25 @@
 ### Oi, me chamo Pedro! 👋
 
+- 🌱 Atualmente aprendendo Javascript
+- 📫 Minhas redes:
+<div>
+  <a>
+    <a href="https://www.linkedin.com/in/pedro-guilherme-sena-922585215/">
+    <img height="25cm"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://www.instagram.com/seupedrx/">
+         <img height="25cm"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+      </a>
+    
+  </a>
+</div>
+<div>
+  <a>
+    <img height="150cm"src="https://github-readme-stats.vercel.app/api?username=eupedrx&show_icons=true&theme=dark"/>
+    <img height="150cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=eupedrx&layout=compact&theme=dark"/>
+  </a>
+</div>
 <!--
-**eupedrx/eupedrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
