@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente se aperfeiçoando em Javascript
 - 📖 Universitário na UniLaSalle-RJ
+- 💼 Estagiário na Prefeitura de Nitéroi - SMU
 - 📫 Minhas redes:
 <div>
   <a>
