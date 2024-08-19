@@ -1,6 +1,6 @@
 ### Oi, me chamo Pedro! 👋
 
-- 🌱 Atualmente se aperfeiçoando em Javascript
+- 🌱 Em constante aprendizado
 - 📖 Universitário na UniLaSalle-RJ
 - 💼 Estagiário na Prefeitura de Niterói - SMU
 - 📫 Minhas redes:
