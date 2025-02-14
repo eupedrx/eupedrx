@@ -2,7 +2,7 @@
 
 - 🌱 Em constante aprendizado
 - 📖 Universitário na UniLaSalle-RJ
-- 💼 Estagiário na Prefeitura de Niterói - SMU
+- 💼 Estagiário na Prefeitura de Niterói - SEMOBI
 - 📫 Minhas redes:
 <div>
   <a>
