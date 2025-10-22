@@ -1,6 +1,6 @@
 ### Oi, me chamo Pedro! 👋
 
-- 🌱 Em constante aprendizado
+- it’s not hard it’s just new
 - 📖 Universitário na UniLaSalle-RJ
 - 📫 Minhas redes:
 <div>
