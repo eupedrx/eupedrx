@@ -1,28 +1,65 @@
-### Oi, me chamo Pedro! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Pedro!+%F0%9F%91%8B;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-- it’s not hard it’s just new
-- 📖 Universitário na UniLaSalle-RJ
-- 📫 Minhas redes:
-<div>
-  <a>
-    <a href="https://www.linkedin.com/in/pedro-guilherme-sena-922585215/">
-    <img height="25cm"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-  </a>
+<h3 align="center">💻 Estudante de Sistemas de Informação</h3>
+
+<p align="center">
+  <em>"It's not hard, it's just new"</em>
+</p>
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guilherme-sena-922585215/)
+  ![Profile Views](https://komarev.com/ghpvc/?username=seu-username&color=blue&style=for-the-badge)
+  
 </div>
-<div>
-  <a>
-    <img height="150cm"src="https://github-readme-stats.vercel.app/api?username=eupedrx&show_icons=true&theme=dark"/>
-    <img height="150cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=eupedrx&layout=compact&theme=dark"/>
-  </a>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Universitário na **UniLaSalle-RJ** - Sistemas de Informação
+- 🌱 Atualmente aprendendo **Java** e **desenvolvimento de APIs REST**
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  
 </div>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Docker](https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=docker&logoColor=white)
+  
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎯 Projetos em Destaque
+
