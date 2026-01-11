@@ -19,7 +19,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Universitário na **UniLaSalle-RJ** - Sistemas de Informação
+- 🎓 Universitário na **Unilasalle-RJ** - Sistemas de Informação
 - 🌱 Atualmente aprendendo **Java** e **desenvolvimento de APIs REST**
 ---
 
