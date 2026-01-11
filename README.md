@@ -8,11 +8,6 @@
   <em>"It's not hard, it's just new"</em>
 </p>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guilherme-sena-922585215/)
-</div>
-
 ---
 
 ### 🚀 Sobre mim
